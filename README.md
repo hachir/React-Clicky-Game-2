@@ -18,5 +18,6 @@ HTML
 CSS
 Node
 React
+The link for the game "https://react-game-0.herokuapp.com/"
 
 
